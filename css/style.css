@@ -1,1 +1,8 @@
 /* add CSS class and element and selectors here */
+
+body { 
+  font-size : 100%;
+  font-family: : 200; 
+  border: 10px dotted red;
+  background-color: green
+}
